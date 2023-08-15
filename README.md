@@ -1,2 +1,2 @@
 # Pengurutan-Penyisipan
-School Assignment 2, Class X-3
+<b><i>School Assignment 2, Class X-3</i></b>
