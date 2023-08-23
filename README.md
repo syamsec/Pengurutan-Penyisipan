@@ -1,2 +1,3 @@
-# Pengurutan-Penyisipan
-<b><i>School Assignment 2, Class X-3</i></b>
+# Project 2 X-3
+# Pengurutan Penyisipan
+<b><i>School Assignment 2</i></b>
